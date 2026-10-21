@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "jupyter-cache-upgrader",
+  "versions": [
+    {
+      "commit": "3cb4c7c80b4d11e829289f833c4ff63b92a0c416",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:29:38.132487+00:00"
+    }
+  ]
+}
