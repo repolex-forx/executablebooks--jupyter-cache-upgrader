@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/jupyter-cache-upgrader/commit/3cb4c7c80b4d11e829289f833c4ff63b92a0c416",
       "git:hexsha": "3cb4c7c80b4d11e829289f833c4ff63b92a0c416",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:29:38.131877+00:00"
     }
   ]
 }
