@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/jupyter-cache-upgrader/commit/3cb4c7c80b4d11e829289f833c4ff63b92a0c416",
       "git:hexsha": "3cb4c7c80b4d11e829289f833c4ff63b92a0c416",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
